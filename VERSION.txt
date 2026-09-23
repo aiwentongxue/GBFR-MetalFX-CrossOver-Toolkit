@@ -1,0 +1,3 @@
+GBFR MetalFX Direct Tool 1.0.0
+Tested: CrossOver Preview 0821, Steam Build ID 24955526
+Mode: SDR + MetalFX Temporal + Direct

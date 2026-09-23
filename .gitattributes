@@ -1,0 +1,6 @@
+installer/payload/** -text
+*.addon binary
+*.asi binary
+*.cso binary
+*.dll binary
+*.png binary
