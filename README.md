@@ -33,8 +33,8 @@
 
 | 版本 | 适合用户 | 下载 |
 |---|---|---|
-| v1.1.0 | 需要 MetalFX，同时需要宽屏/自定义分辨率（推荐） | [GBFR-MetalFX-宽屏一键工具-v1.1.0.zip](https://github.com/aiwentongxue/GBFR-MetalFX-CrossOver-Toolkit/releases/download/v1.1.0/GBFR-MetalFX-%E5%AE%BD%E5%B1%8F%E4%B8%80%E9%94%AE%E5%B7%A5%E5%85%B7-v1.1.0.zip) |
-| v1.0.0 | 只需要 MetalFX Direct，不需要任何分辨率适配 | [GBFR-MetalFX-Direct-工具-v1.0.0.zip](https://github.com/aiwentongxue/GBFR-MetalFX-CrossOver-Toolkit/releases/download/v1.0.0/GBFR-MetalFX-Direct-%E5%B7%A5%E5%85%B7-v1.0.0.zip) |
+| v1.1.0 | 需要 MetalFX，同时需要宽屏/自定义分辨率（推荐） | [GBFR-MetalFX-Ultrawide-Tool-v1.1.0.zip](https://github.com/aiwentongxue/GBFR-MetalFX-CrossOver-Toolkit/releases/download/v1.1.0/GBFR-MetalFX-Ultrawide-Tool-v1.1.0.zip) |
+| v1.0.0 | 只需要 MetalFX Direct，不需要任何分辨率适配 | [GBFR-MetalFX-Direct-Tool-v1.0.0.zip](https://github.com/aiwentongxue/GBFR-MetalFX-CrossOver-Toolkit/releases/download/v1.0.0/GBFR-MetalFX-Direct-Tool-v1.0.0.zip) |
 
 如果 v1.1.0 的宽屏补丁与新游戏版本不兼容，可回退到 v1.0.0。
 
@@ -100,8 +100,8 @@ winmm   = native,builtin
 ZIP SHA-256：
 
 ```text
-15d4757769016aac8fa52a361282b8b325bc3ea124897617315511dff8937c2e  GBFR-MetalFX-Direct-工具-v1.0.0.zip
-56eceb53d76871c825813c67293512ee175809f564d1d1b76675722a6de8db34  GBFR-MetalFX-宽屏一键工具-v1.1.0.zip
+15d4757769016aac8fa52a361282b8b325bc3ea124897617315511dff8937c2e  GBFR-MetalFX-Direct-Tool-v1.0.0.zip
+56eceb53d76871c825813c67293512ee175809f564d1d1b76675722a6de8db34  GBFR-MetalFX-Ultrawide-Tool-v1.1.0.zip
 ```
 
 ## 反馈问题
