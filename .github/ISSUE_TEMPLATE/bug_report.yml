@@ -1,0 +1,52 @@
+name: 兼容性问题
+description: 报告画面异常、安装失败或 MetalFX/宽屏补丁未生效
+title: "[Bug] "
+labels: [bug]
+body:
+  - type: input
+    id: mac
+    attributes:
+      label: Mac 型号与芯片
+      placeholder: 例如 MacBook Pro 16-inch, M2 Max
+    validations:
+      required: true
+  - type: input
+    id: macos
+    attributes:
+      label: macOS 版本
+    validations:
+      required: true
+  - type: input
+    id: crossover
+    attributes:
+      label: CrossOver 版本
+      placeholder: 例如 CrossOver Preview 0821
+    validations:
+      required: true
+  - type: input
+    id: game
+    attributes:
+      label: 游戏 Build ID
+    validations:
+      required: true
+  - type: dropdown
+    id: tool
+    attributes:
+      label: 工具版本
+      options:
+        - v1.1.0
+        - v1.0.0
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤与实际结果
+      description: 请说明选择了哪个容器、执行了哪个菜单项。
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Metal HUD 截图与 cxlog
+      description: 可直接拖入截图或日志文件，请勿上传含个人信息的文件。

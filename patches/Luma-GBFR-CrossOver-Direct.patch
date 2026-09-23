@@ -1,0 +1,11 @@
+From Luma Framework commit 3d48c38c17a59136be068e1f33bd25a92be69089
+
+diff --git a/Source/Games/Granblue Fantasy Relink/main.cpp b/Source/Games/Granblue Fantasy Relink/main.cpp
+index 58c0b4c..63f4dfb 100644
+--- a/Source/Games/Granblue Fantasy Relink/main.cpp
++++ b/Source/Games/Granblue Fantasy Relink/main.cpp
+@@ -1459,0 +1460,4 @@ BOOL APIENTRY DllMain(HMODULE hModule, DWORD ul_reason_for_call, LPVOID lpReserv
++      // DXMT can use a direct presentation path at the display resolution.
++      // Do not block the game's SetFullscreenState call on macOS/CrossOver.
++      prevent_fullscreen_state = false;
++

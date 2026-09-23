@@ -1,6 +1,6 @@
 # Third-party notices
 
-This package redistributes a modified Luma add-on and the ReShade runtime for free, non-commercial use.
+This package redistributes a modified Luma add-on, the ReShade runtime, and GBFRelinkFix.
 
 ## Luma Framework
 
@@ -18,3 +18,12 @@ ReShade is distributed under a BSD 3-Clause-style license. The complete license 
 
 Source: https://github.com/crosire/reshade
 
+## GBFRelinkFix
+
+Copyright (c) 2024 Lyall
+
+GBFRelinkFix is distributed under the MIT License. The complete license is included as `LICENSE-GBFRelinkFix.md`.
+
+Source: https://github.com/Lyall/GBFRelinkFix (archived mirror)
+
+Active upstream: https://codeberg.org/Lyall/GBFRelinkFix

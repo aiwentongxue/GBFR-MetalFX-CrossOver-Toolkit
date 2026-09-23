@@ -1,4 +1,4 @@
-installer/payload/** -text
+installer/payload/** binary
 *.addon binary
 *.asi binary
 *.cso binary
